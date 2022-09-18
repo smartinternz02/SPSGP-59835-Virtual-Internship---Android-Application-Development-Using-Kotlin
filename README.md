@@ -1,12 +1,13 @@
 # SPSGP-59835-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 
-THIS IS  MY MAIN PROJECT IN THIS PROJECT , I AM MAKE A GROCERRY APP.
-SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin
+THIS IS  MY MAIN PROJECT IN THIS PROJECT ,
+I AM MAKE A GROCERRY APP.
+SPSGP-59835-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin by SmartBridge & GOOGLE in collaboration with AICTE
 
 Name: Pranav VIshwakarma
-Presenting the project Nearby Store & Grocery List to you!
+Presenting the project  Grocery List to you!
 
 Final Project
 Although I'm making a lot of effort to fix the flaws, the Maps part of the app is currently not functioning as intended. As a result, I added a grocery list project to the same app, which is completely functional. You can check it out here. Excellent user interface and functionality.
@@ -24,12 +25,6 @@ Github All Releases
 Preview / Screenshots
   
 
-All Projects Module Wise
-Unit 1: Kotlin Basics
-Unit 2: Layouts
-Unit 3: Navigation
-Unit 4: Connect to the Internet
-Unit 5: Data Persistence
-Unit 6: WorkManager
+
 Thank You SmartBridge & GOOGLE!
 
