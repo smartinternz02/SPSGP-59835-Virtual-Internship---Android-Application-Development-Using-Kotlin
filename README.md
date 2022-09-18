@@ -19,12 +19,13 @@ Source Code (On My Repo) - Give ⭐ to the repo!
 Download APK
 
 Github All Releases
-[Uploading imgapp.png]()
+
 
 
 
 
 Preview / Screenshots
+<img width="960" alt="imgapp pdf" src="https://user-images.githubusercontent.com/103947396/190915247-ffcc98c2-bbf8-44f4-af05-a39b69606876.png">
 
 
 
