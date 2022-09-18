@@ -1,4 +1,5 @@
 # SPSGP-59835-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 
-The project files for the android development internship are  here.
+THIS IS  MY MAIN PROJECT IN THIS PROJECT , I AM MAKE A GROCERRY APP.
+
