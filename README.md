@@ -23,6 +23,10 @@ Github All Releases
 
 
 Preview / Screenshots
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/103947396/190914534-f7ce7a58-15b2-44d9-a212-fca65198ebfc.png">
+[Uploading image.png…]()
+[Uploading image.png…]()
+
   
 
 
