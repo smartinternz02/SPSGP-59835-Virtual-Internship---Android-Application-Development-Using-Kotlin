@@ -6,7 +6,7 @@ I AM MAKE A GROCERRY APP.
 SPSGP-59835-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin by SmartBridge & GOOGLE in collaboration with AICTE
 
-Name: Pranav VIshwakarma
+## Name: Pranav VIshwakarma
 Presenting the project  Grocery List to you!
 
 Final Project
